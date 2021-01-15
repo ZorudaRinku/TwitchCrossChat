@@ -1,0 +1,9 @@
+{
+  "name": "twitch-cross-chat",
+  "version": "0.0.0",
+  "description": "TwitchCrossChat",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
